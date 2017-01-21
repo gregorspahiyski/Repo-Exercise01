@@ -17,4 +17,5 @@ C004:
 - Adding changes to README.md locally to push them using "Git Bash".
 
 C005:
-- Adding another line of text on README.md locally for "Git Bash" conflict.
+- Adding changes to README.md from Git Hub directly to create a conflict in "Git Bash".
+
