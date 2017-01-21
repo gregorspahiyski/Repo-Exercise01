@@ -1,6 +1,5 @@
 # Repo-Exercise01
-First repository for exercises
-sdfsdfsdfsdf
+First repository for exercises (Fixed it!)
 
 Changelogs
 
