@@ -9,3 +9,6 @@ C001:
 C002:
 - Fixed the sentence "First repository for exercises" and added the missing "dot" symbol at the end.
 - Conflict resolving test.
+
+C003:
+- Changes made to "master" branch after creating "Alternative".
