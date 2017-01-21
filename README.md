@@ -12,3 +12,6 @@ C002:
 
 C003:
 - Changes made to "master" branch after creating "Alternative".
+
+C004:
+- Recreated branch "Alternative" for round 2 testing and made changes to README.md in "master" branch to create conflict.
