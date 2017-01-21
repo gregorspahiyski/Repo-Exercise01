@@ -12,3 +12,6 @@ C002:
 
 C003:
 - Changes made to README.md file after creating "Alternative" branch.
+
+C004:
+- Adding changes to README.md locally to push them using "Git Bash".
