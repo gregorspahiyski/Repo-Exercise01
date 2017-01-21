@@ -20,4 +20,4 @@ C005:
 - Adding changes to README.md from Git Hub directly to create a conflict in "Git Bash".
 
 C006:
-
+- Conflict resolved, changes in branch newOne were incorrect. Keeping master changes.
