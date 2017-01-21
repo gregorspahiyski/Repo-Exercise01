@@ -11,4 +11,4 @@ C002:
 - Conflict resolving test.
 
 C003:
-- Changes made to "master" branch after creating "Alternative".
+- Changes made to README.md file after creating "Alternative" branch.
